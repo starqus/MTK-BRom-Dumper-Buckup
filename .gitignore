@@ -1,0 +1,21 @@
+# MediaTek Dumps & Partition Images
+*.bin
+*.img
+telefon_yedek.bin
+userdata.img
+usrdata.img
+fat.img
+android.img
+cache.img
+
+# Extracted Personal Data
+kurtarilan_veriler/
+recovered_data/
+
+# Python & System files
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.vscode/
+.idea/
